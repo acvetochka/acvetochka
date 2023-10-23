@@ -6,7 +6,7 @@
 I'm a beginner web developer with a passion for creating amazing web experiences. I'm excited to share my journey, my projects, and what I bring to the table as a developer.
 I've always been fascinated by the world of web development, and I'm eager to expand my knowledge and skills. While I'm relatively new to the field, I have some valuable experience as well. I've had the privilege of serving as a team lead twice and once as a Scrum Master. These roles have allowed me to develop my communication and leadership skills, which I believe will be an asset in my web development career.
 
-As a beginner, I may not have years of experience, but I bring enthusiasm, dedication, and a commitment to learning. Here's what you can expect from me:
+<!-- As a beginner, I may not have years of experience, but I bring enthusiasm, dedication, and a commitment to learning. Here's what you can expect from me:
 
 - Passion: I'm incredibly passionate about web development. I'm excited to tackle new challenges and dive into the world of coding.
 
@@ -14,7 +14,7 @@ As a beginner, I may not have years of experience, but I bring enthusiasm, dedic
 
 - Adaptability: The tech world is constantly evolving, and I'm committed to staying up-to-date with the latest trends and technologies. I'm a quick learner and am excited to adapt to new tools and techniques.
 
-- Problem-Solving: I love solving problems, whether it's debugging code or finding creative solutions to complex challenges. I'm always up for a good puzzle.
+- Problem-Solving: I love solving problems, whether it's debugging code or finding creative solutions to complex challenges. I'm always up for a good puzzle. -->
 
 ## My stack:
 
