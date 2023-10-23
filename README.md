@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://acvetochka.github.io/Resume" target="_blank">Alona</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-## About me
-
 I'm a beginner web developer with a passion for creating amazing web experiences. I'm excited to share my journey, my projects, and what I bring to the table as a developer.
 I've always been fascinated by the world of web development, and I'm eager to expand my knowledge and skills. While I'm relatively new to the field, I have some valuable experience as well. I've had the privilege of serving as a team lead twice and once as a Scrum Master. These roles have allowed me to develop my communication and leadership skills, which I believe will be an asset in my web development career.
 
