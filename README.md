@@ -69,6 +69,8 @@ I'm always open to connect with fellow developers, so don't hesitate to reach ou
 <a href="https://t.me/acvetochka" target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 <a href="https://wa.me/30961270693" target="_blank">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 <a href="mailto:acvetochka@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.get-in-it.de/profil/JZNjS79xsiXUeN4VeAzYw1I70sSQY1mZ" target="_blank">![Get in IT](https://img.shields.io/badge/Get_in_IT-6eab1b6?style=for-the-badge)</a>
+
 
 Thank you for stopping by, and I look forward to connecting with you in the world of web development.  
 
