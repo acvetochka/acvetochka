@@ -74,4 +74,4 @@ I'm always open to connect with fellow developers, so don't hesitate to reach ou
 
 Thank you for stopping by, and I look forward to connecting with you in the world of web development.  
 
-
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=goit-react-hw-05-movies)](https://github.com/anuraghazra/github-readme-stats)-->
