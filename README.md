@@ -46,6 +46,7 @@ I've always been fascinated by the world of web development, and I'm eager to ex
    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
    ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+   ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ## Projects
 I'll be using this GitHub profile to showcase my projects and progress as a web developer. I'm excited to share what I create and to collaborate with others in the developer community.
