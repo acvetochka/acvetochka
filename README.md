@@ -30,6 +30,7 @@ I've always been fascinated by the world of web development, and I'm eager to ex
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![BEM](https://img.shields.io/badge/BEM-20232a?style=for-the-badge&logo=bem&logoColor=white)
+  ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
 **Backend**:
 
