@@ -1,9 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://acvetochka.github.io/Resume" target="_blank">Alona</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=acvetochka&style=flat-square&color=blue" alt=""/>
-</div>
 <!-- ![](https://komarev.com/ghpvc/?acvetochka&color=blue) -->
 I'm a beginner web developer with a passion for creating amazing web experiences. I'm excited to share my journey, my projects, and what I bring to the table as a developer.
 I've always been fascinated by the world of web development, and I'm eager to expand my knowledge and skills. While I'm relatively new to the field, I have some valuable experience as well. I've had the privilege of serving as a team lead twice and once as a Scrum Master. These roles have allowed me to develop my communication and leadership skills, which I believe will be an asset in my web development career.
@@ -78,6 +75,10 @@ I'm always open to connect with fellow developers, so don't hesitate to reach ou
 <a href="https://wa.me/30961270693" target="_blank">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 <a href="mailto:acvetochka@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.get-in-it.de/profil/JZNjS79xsiXUeN4VeAzYw1I70sSQY1mZ" target="_blank">![Get in IT](https://img.shields.io/badge/Get_in_IT-6eab1b6?style=for-the-badge)</a>
+
+
+
+<img src="https://komarev.com/ghpvc/?username=acvetochka&style=flat-square&color=blue" alt=""/>
 
 
 Thank you for stopping by, and I look forward to connecting with you in the world of web development.  
