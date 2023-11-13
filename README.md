@@ -1,6 +1,10 @@
 <h1 align="center">Hi there, I'm <a href="https://acvetochka.github.io/Resume" target="_blank">Alona</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=acvetochka&style=flat-square&color=blue" alt=""/>
+</div>
+<!-- ![](https://komarev.com/ghpvc/?acvetochka&color=blue) -->
 I'm a beginner web developer with a passion for creating amazing web experiences. I'm excited to share my journey, my projects, and what I bring to the table as a developer.
 I've always been fascinated by the world of web development, and I'm eager to expand my knowledge and skills. While I'm relatively new to the field, I have some valuable experience as well. I've had the privilege of serving as a team lead twice and once as a Scrum Master. These roles have allowed me to develop my communication and leadership skills, which I believe will be an asset in my web development career.
 
@@ -14,7 +18,7 @@ I've always been fascinated by the world of web development, and I'm eager to ex
 
 - Problem-Solving: I love solving problems, whether it's debugging code or finding creative solutions to complex challenges. I'm always up for a good puzzle. -->
 
-## My stack:
+## :fire: My stack:
 
 **Frontend**:
 
@@ -49,10 +53,12 @@ I've always been fascinated by the world of web development, and I'm eager to ex
    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
    ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-## Projects
+## :fire: Projects
 I'll be using this GitHub profile to showcase my projects and progress as a web developer. I'm excited to share what I create and to collaborate with others in the developer community.
 
-## Statistic
+## :fire: Statistic
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=acvetochka&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=acvetochka&theme=discord&rank=-C,-?&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -63,7 +69,7 @@ Codewars:
 
 [![codewars](https://www.codewars.com/users/acvetochka/badges/small)](https://www.codewars.com/users/acvetochka) 
 
-## My Contacts
+## :fire: My Contacts
 
 I'm always open to connect with fellow developers, so don't hesitate to reach out. Whether you want to collaborate, chat about coding, or just say hello, feel free to send me a message. Let's build amazing things together!
 
