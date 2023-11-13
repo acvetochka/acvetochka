@@ -55,7 +55,7 @@ I'll be using this GitHub profile to showcase my projects and progress as a web 
 
 ## :fire: Statistic
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=acvetochka&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=acvetochka&theme=dark)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=acvetochka&theme=discord&rank=-C,-?&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
