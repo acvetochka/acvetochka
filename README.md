@@ -55,12 +55,13 @@ I'll be using this GitHub profile to showcase my projects and progress as a web 
 
 ## :fire: Statistic
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=acvetochka&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=acvetochka&theme=tokyonight)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=acvetochka&theme=discord&rank=-C,-?&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acvetochka&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=acvetochka&theme=tokyonight)
+
 
 Codewars:
 
