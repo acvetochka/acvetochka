@@ -78,10 +78,8 @@ I'm always open to connect with fellow developers, so don't hesitate to reach ou
 <a href="https://www.get-in-it.de/profil/JZNjS79xsiXUeN4VeAzYw1I70sSQY1mZ" target="_blank">![Get in IT](https://img.shields.io/badge/Get_in_IT-6eab1b6?style=for-the-badge)</a>
 
 
-
-<img src="https://komarev.com/ghpvc/?username=acvetochka&style=flat-square&color=blue" alt=""/>
-
-
 Thank you for stopping by, and I look forward to connecting with you in the world of web development.  
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=goit-react-hw-05-movies)](https://github.com/anuraghazra/github-readme-stats)-->
+
+[![Alona Kuznietsova profile views](https://u8views.com/api/v1/github/profiles/116402791/views/day-week-month-total-count.svg)](https://u8views.com/github/acvetochka)
