@@ -58,6 +58,9 @@ I'll be using this GitHub profile to showcase my projects and progress as a web 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=acvetochka&theme=tokyonight)](https://git.io/streak-stats)
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=acvetochka&theme=tokyonight" alt="GitHub Streak" /></a>
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=acvetochka&theme=discord&rank=-C,-?&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acvetochka&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
