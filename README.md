@@ -70,6 +70,8 @@ Codewars:
 
 [![codewars](https://www.codewars.com/users/acvetochka/badges/small)](https://www.codewars.com/users/acvetochka) 
 
+<a href="https://www.cloudskillsboost.google/public_profiles/3df8c2a4-5937-47cd-9e6f-8be8c5e95deb" target="_blank">![CloudSkillsBoost](https://img.shields.io/badge/Cloud_Skills_Boost-1a73e8?style=for-the-badge)</a>
+
 ## :fire: My Contacts
 
 I'm always open to connect with fellow developers, so don't hesitate to reach out. Whether you want to collaborate, chat about coding, or just say hello, feel free to send me a message. Let's build amazing things together!
@@ -79,6 +81,7 @@ I'm always open to connect with fellow developers, so don't hesitate to reach ou
 <a href="https://wa.me/30961270693" target="_blank">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 <a href="mailto:acvetochka@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.get-in-it.de/profil/JZNjS79xsiXUeN4VeAzYw1I70sSQY1mZ" target="_blank">![Get in IT](https://img.shields.io/badge/Get_in_IT-6eab1b6?style=for-the-badge)</a>
+
 
 <a href="https://u8views.com/github/acvetochka"><img src="https://u8views.com/api/v1/github/profiles/116402791/views/day-week-month-total-count.svg"></a>
 
