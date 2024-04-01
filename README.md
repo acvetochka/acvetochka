@@ -71,6 +71,7 @@ Codewars:
 [![codewars](https://www.codewars.com/users/acvetochka/badges/small)](https://www.codewars.com/users/acvetochka) 
 
 <a href="https://www.cloudskillsboost.google/public_profiles/3df8c2a4-5937-47cd-9e6f-8be8c5e95deb" target="_blank">![CloudSkillsBoost](https://img.shields.io/badge/Cloud_Skills_Boost-1a73e8?style=for-the-badge)</a>
+<a href="https://www.credly.com/users/lona-kuznietsova" target="_blank">![Credly](https://img.shields.io/badge/Credly-ff6a00?style=for-the-badge)</a>
 
 ## :fire: My Contacts
 
