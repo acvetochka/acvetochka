@@ -57,10 +57,10 @@ I'll be using this GitHub profile to showcase my projects and progress as a web 
 
 - Team-projects
 
-[![Smile Bar Repo](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=smile_bar&theme=tokyonight)](https://github.com/acvetochka/smile_bar)
-[![Goose-track-project Repo](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=goose-track-project&theme=tokyonight)](https://github.com/acvetochka/goose-track-project)
-[![project-bookshelf Repo](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=project-bookshelf&theme=tokyonight)](https://github.com/acvetochka/project-bookshelf)
-[![Mimino Repo](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=mimino&theme=tokyonight)](https://github.com/acvetochka/mimino)
+[![Smile Bar Repo](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=smile_bar&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/smile_bar)
+[![Goose-track-project Repo](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=goose-track-project&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/goose-track-project)
+[![project-bookshelf Repo](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=project-bookshelf&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/project-bookshelf)
+[![Mimino Repo](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=mimino&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/mimino)
 
 ## :fire: Statistic
 
