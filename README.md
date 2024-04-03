@@ -55,6 +55,13 @@ I've always been fascinated by the world of web development, and I'm eager to ex
 ## :fire: Projects
 I'll be using this GitHub profile to showcase my projects and progress as a web developer. I'm excited to share what I create and to collaborate with others in the developer community.
 
+- Team-projects
+
+[![Smile Bar Repo](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=smile_bar&theme=tokyonight)](https://github.com/acvetochka/smile_bar)
+[![Goose-track-project Repo](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=goose-track-project&theme=tokyonight)](https://github.com/acvetochka/goose-track-project)
+[![project-bookshelf Repo](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=project-bookshelf&theme=tokyonight)](https://github.com/acvetochka/project-bookshelf)
+[![Mimino Repo](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=mimino&theme=tokyonight)](https://github.com/acvetochka/mimino)
+
 ## :fire: Statistic
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=acvetochka&theme=tokyonight)](https://git.io/streak-stats)
