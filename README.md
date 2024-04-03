@@ -59,13 +59,6 @@ I'll be using this GitHub profile to showcase my projects and progress as a web 
 <details>
 <summary><b>💡 Team-projects:</b></summary>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=smile_bar&theme=tokyonight&description_lines_count=3" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=goose-track-project&theme=tokyonight&description_lines_count=3" />
-</a>
-
 [![Smile Bar Repo](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=smile_bar&theme=tokyonight&description_lines_count=3&card_width=100)](https://github.com/acvetochka/smile_bar)
 [![Goose-track-project Repo](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=goose-track-project&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/goose-track-project)
 [![project-bookshelf Repo](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=project-bookshelf&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/project-bookshelf)
@@ -76,13 +69,12 @@ I'll be using this GitHub profile to showcase my projects and progress as a web 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=acvetochka&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acvetochka&layout=compactv&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=acvetochka&theme=discord&rank=-C,-?&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acvetochka&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=acvetochka&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acvetochka&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 Codewars:
 
