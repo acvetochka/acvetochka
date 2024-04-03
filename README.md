@@ -41,6 +41,7 @@ I've always been fascinated by the world of web development, and I'm eager to ex
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Mongoose](https://img.shields.io/badge/Mongoose-gray?style=for-the-badge&logo=mongoose&logoColor=880000)
+  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
  **Utilites**:
 
@@ -55,17 +56,27 @@ I've always been fascinated by the world of web development, and I'm eager to ex
 ## :fire: Projects
 I'll be using this GitHub profile to showcase my projects and progress as a web developer. I'm excited to share what I create and to collaborate with others in the developer community.
 
-- Team-projects
+<details>
+<summary><b>💡 Team-projects:</b></summary>
 
-[![Smile Bar Repo](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=smile_bar&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/smile_bar)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=smile_bar&theme=tokyonight&description_lines_count=3" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=goose-track-project&theme=tokyonight&description_lines_count=3" />
+</a>
+
+[![Smile Bar Repo](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=smile_bar&theme=tokyonight&description_lines_count=3&card_width=100)](https://github.com/acvetochka/smile_bar)
 [![Goose-track-project Repo](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=goose-track-project&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/goose-track-project)
 [![project-bookshelf Repo](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=project-bookshelf&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/project-bookshelf)
 [![Mimino Repo](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=mimino&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/mimino)
+</details>
 
 ## :fire: Statistic
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=acvetochka&theme=tokyonight)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acvetochka&layout=compactv&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=acvetochka&theme=discord&rank=-C,-?&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
