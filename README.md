@@ -65,6 +65,16 @@ I'll be using this GitHub profile to showcase my projects and progress as a web 
 [![Mimino Repo](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=mimino&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/mimino)
 </details>
 
+<details>
+<summary><b>💡 Websites/ Landings:</b></summary>
+
+<br/>
+
+[![carp-travel](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=carp-travel&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/carp-travel)
+[![car-rental](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=car-rental&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/car-rental)
+[![WebStudio](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=WebStudio&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/WebStudio)
+</details>
+
 ## :fire: Statistic
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=acvetochka&theme=tokyonight)](https://git.io/streak-stats)
