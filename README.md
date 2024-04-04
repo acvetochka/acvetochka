@@ -59,6 +59,8 @@ I'll be using this GitHub profile to showcase my projects and progress as a web 
 <details>
 <summary><b>💡 Team-projects:</b></summary>
 
+<br/>
+
 [![Smile Bar Repo](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=smile_bar&theme=tokyonight&description_lines_count=3&card_width=100)](https://github.com/acvetochka/smile_bar)
 [![Goose-track-project Repo](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=goose-track-project&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/goose-track-project)
 [![project-bookshelf Repo](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=project-bookshelf&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/project-bookshelf)
@@ -73,6 +75,19 @@ I'll be using this GitHub profile to showcase my projects and progress as a web 
 [![carp-travel](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=carp-travel&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/carp-travel)
 [![car-rental](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=car-rental&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/car-rental)
 [![WebStudio](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=WebStudio&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/WebStudio)
+</details>
+
+<details>
+<summary><b>💡 Apps:</b></summary>
+
+<br/>
+
+[![Phonebook](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=Phonebook&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/Phonebook)
+[![tetris](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=tetris&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/tetris)
+[![search-movies](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=search-movies&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/search-movies)
+[![fullstackTest](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=fullstackTest&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/fullstackTest)
+[![ImageSearchl](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=ImageSearch&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/ImageSearch)
+
 </details>
 
 ## :fire: Statistic
