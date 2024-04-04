@@ -76,6 +76,9 @@ I'll be using this GitHub profile to showcase my projects and progress as a web 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acvetochka&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://raw.githubusercontent.com/acvetochka/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/acvetochka/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 Codewars:
 
 [![codewars](https://www.codewars.com/users/acvetochka/badges/small)](https://www.codewars.com/users/acvetochka) 
