@@ -99,7 +99,7 @@ I'll be using this GitHub profile to showcase my projects and progress as a web 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acvetochka&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=acvetochka&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acvetochka&hide=html,css,scss&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acvetochka&hide=html,css,scss&layout=compact&langs_count=12&theme=tokyonight)
 
 ![](https://raw.githubusercontent.com/acvetochka/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/acvetochka/github-stats/master/generated/overview.svg#gh-light-mode-only)
