@@ -101,12 +101,12 @@ I'll be using this GitHub profile to showcase my projects and progress as a web 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acvetochka&theme=tokyonight&hide_border=true\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage)
 <!-- \&rank_icon=percentile -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=acvetochka&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acvetochka&hide=html,css,scss&layout=compact&langs_count=12&theme=tokyonight)
-
+<!--![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=acvetochka&theme=tokyonight)
 ![](https://raw.githubusercontent.com/acvetochka/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/acvetochka/github-stats/master/generated/overview.svg#gh-light-mode-only)
+-->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acvetochka&hide=html,css,scss&layout=compact&langs_count=12&theme=tokyonight)
 
 Codewars:
 
