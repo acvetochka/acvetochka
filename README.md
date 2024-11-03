@@ -98,7 +98,7 @@ I'll be using this GitHub profile to showcase my projects and progress as a web 
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acvetochka&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acvetochka&theme=tokyonight&hide_border=true\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acvetochka&theme=tokyonight&hide_border=true\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true)
 <!-- \&rank_icon=percentile -->
 
 <!--![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=acvetochka&theme=tokyonight)
@@ -108,7 +108,9 @@ I'll be using this GitHub profile to showcase my projects and progress as a web 
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acvetochka&layout=compact&langs_count=20&theme=tokyonight)-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acvetochka&hide=html,css,scss&layout=compact&langs_count=20&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acvetochka&hide=Jupyter%20Notebook,go,smarty,groovy,hcl&layout=compact&langs_count=20&theme=tokyonight)
+
+<!--html,css,scss,-->
 
 Codewars:
 
