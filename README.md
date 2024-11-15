@@ -92,6 +92,8 @@ I'll be using this GitHub profile to showcase my projects and progress as a web 
 
 ## :fire: Statistic
 
+<!--[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=acvetochka&theme=tokyonight)]-->
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=acvetochka&theme=tokyonight)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=acvetochka&theme=discord&rank=-?&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
