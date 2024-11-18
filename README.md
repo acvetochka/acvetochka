@@ -110,7 +110,7 @@ I'll be using this GitHub profile to showcase my projects and progress as a web 
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acvetochka&layout=compact&langs_count=20&theme=tokyonight)-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acvetochka&hide=Jupyter%20Notebook,go,smarty,groovy,hcl&layout=compact&langs_count=20&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acvetochka&hide=Jupyter%20Notebook,go,smarty,groovy,hcl&layout=compact&langs_count=20&theme=tokyonight&exclude_repo=Ukraine-in-heart,mimino)
 
 <!--html,css,scss,-->
 
