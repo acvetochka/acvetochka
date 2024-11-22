@@ -94,13 +94,16 @@ I'll be using this GitHub profile to showcase my projects and progress as a web 
 
 <!--[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=acvetochka&theme=tokyonight)]-->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=acvetochka&theme=tokyonight)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=acvetochka&theme=tokyonight"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=acvetochka&theme=tokyonight&hide_border=true\&show_icons=true\&include_all_commits=true"/></a>
+
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=acvetochka&theme=tokyonight)](https://git.io/streak-stats)-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=acvetochka&theme=discord&rank=-?&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acvetochka&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acvetochka&theme=tokyonight&hide_border=true\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acvetochka&theme=tokyonight&hide_border=true\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true)-->
 <!-- \&rank_icon=percentile -->
 
 <!--![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=acvetochka&theme=tokyonight)
