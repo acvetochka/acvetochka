@@ -2,8 +2,15 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <!-- ![](https://komarev.com/ghpvc/?acvetochka&color=blue) -->
-I'm a beginner web developer with a passion for creating amazing web experiences. I'm excited to share my journey, my projects, and what I bring to the table as a developer.
-I've always been fascinated by the world of web development, and I'm eager to expand my knowledge and skills. While I'm relatively new to the field, I have some valuable experience as well. I've had the privilege of serving as a team lead twice and once as a Scrum Master. These roles have allowed me to develop my communication and leadership skills, which I believe will be an asset in my web development career.
+## :fire: About me:
+
+- Frontend Developer with a passion for JavaScript, React, and Next.js
+- Skilled in creating modern, adaptive websites that look great on any device
+- Proficient in SASS, BEM, Tailwind CSS, and Emotion-styles
+- Experienced in team roles as Team Lead and Scrum Master on team projects
+Holder of two master’s degrees in Telecommunications and Law, combining technical expertise with analytical thinking
+- Quick to adapt to new technologies and solutions, with strong self-learning skills
+- Basic knowledge of backend, Google Cloud Platform, data analytics, Python
 
 <!-- As a beginner, I may not have years of experience, but I bring enthusiasm, dedication, and a commitment to learning. Here's what you can expect from me:
 
