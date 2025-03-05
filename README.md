@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://portfolio-jet-pi-14.vercel.app/" target="_blank">Alona</a> 
+<h1 align="center">Hi there, I'm <a href="https://kuznietsova.org" target="_blank">Alona</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <!-- ![](https://komarev.com/ghpvc/?acvetochka&color=blue) -->
@@ -143,7 +143,7 @@ I'm always open to connect with fellow developers, so don't hesitate to reach ou
 <a href="mailto:acvetochka@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.get-in-it.de/profil/JZNjS79xsiXUeN4VeAzYw1I70sSQY1mZ" target="_blank">![Get in IT](https://img.shields.io/badge/Get_in_IT-6eab1b6?style=for-the-badge)</a>
 
-<a href="https://acvetochka.github.io/Resume" target="_blank">My Resume</a> 
+<a href="https://resume.kuznietsova.org" target="_blank">My Resume</a> 
 
 
 
