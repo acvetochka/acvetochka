@@ -83,6 +83,7 @@ I'll be using this GitHub profile to showcase my projects and progress as a web 
 [![carp-travel](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=carp-travel&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/carp-travel)
 [![car-rental](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=car-rental&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/car-rental)
 [![WebStudio](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=WebStudio&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/WebStudio)
+[![Resume](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=Resume&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/Resume)
 </details>
 
 <details>
@@ -95,6 +96,7 @@ I'll be using this GitHub profile to showcase my projects and progress as a web 
 [![search-movies](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=search-movies&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/search-movies)
 [![fullstackTest](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=fullstackTest&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/fullstackTest)
 [![ImageSearchl](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=ImageSearch&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/ImageSearch)
+[![WeatherApp](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=weather-app&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/weather-app)
 
 </details>
 
