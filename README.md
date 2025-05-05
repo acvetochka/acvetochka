@@ -104,7 +104,10 @@ I'll be using this GitHub profile to showcase my projects and progress as a web 
 
 <!--[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=acvetochka&theme=tokyonight)]-->
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=acvetochka&theme=tokyonight&card_width=420"/></a>
+<!--<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=acvetochka&theme=tokyonight&card_width=420"/></a>-->
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=acvetochka&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=420" alt="GitHub Streak" /></a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=acvetochka&theme=tokyonight&hide_border=true\&show_icons=true\&include_all_commits=true&card_width=420"/></a>
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=acvetochka&theme=tokyonight)](https://git.io/streak-stats)-->
