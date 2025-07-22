@@ -8,7 +8,7 @@
 - Skilled in creating modern, adaptive websites that look great on any device
 - Proficient in SASS, BEM, Tailwind CSS, and Emotion-styles
 - Experienced in team roles as Team Lead and Scrum Master on team projects
-Holder of two master’s degrees in Telecommunications and Law, combining technical expertise with analytical thinking
+- Holder of two master’s degrees in Telecommunications and Law, combining technical expertise with analytical thinking
 - Quick to adapt to new technologies and solutions, with strong self-learning skills
 - Basic knowledge of backend, Google Cloud Platform, data analytics, Python
 
@@ -108,7 +108,7 @@ I'll be using this GitHub profile to showcase my projects and progress as a web 
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=acvetochka&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=420" alt="GitHub Streak" /></a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=acvetochka&theme=tokyonight&hide_border=true\&show_icons=true\&include_all_commits=true&card_width=420"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=acvetochka&theme=tokyonight&hide_border=true\&show_icons=true\&include_all_commits=false&card_width=420"/></a>
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=acvetochka&theme=tokyonight)](https://git.io/streak-stats)-->
 
