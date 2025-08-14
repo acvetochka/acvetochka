@@ -34,6 +34,7 @@
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
   ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
   ![Rest API](https://img.shields.io/badge/Rest_API-gray?style=for-the-badge)
+  ![Stripe](https://img.shields.io/badge/stripe-%2320232a.svg?style=for-the-badge&logo=stripe&logoColor=635BFF)
 
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -41,6 +42,7 @@
   ![BEM](https://img.shields.io/badge/BEM-20232a?style=for-the-badge&logo=bem&logoColor=white)
   ![Emotion Styled](https://img.shields.io/badge/Emotion-D26AC2?style=for-the-badge)
   ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+  ![Shadcn](https://img.shields.io/badge/shadcn-black?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 **Backend**:
 
