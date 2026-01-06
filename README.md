@@ -81,6 +81,8 @@ I'll be using this GitHub profile to showcase my projects and progress as a web 
 
 <br/>
 
+[![Smile Bar Repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=acvetochka&repo=smile_bar&theme=tokyonight)](https://github.com/acvetochka/smile_bar)
+
 [![Smile Bar Repo](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=smile_bar&theme=tokyonight&description_lines_count=3&card_width=100)](https://github.com/acvetochka/smile_bar)
 [![Goose-track-project Repo](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=goose-track-project&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/goose-track-project)
 [![project-bookshelf Repo](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=project-bookshelf&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/project-bookshelf)
@@ -119,13 +121,22 @@ I'll be using this GitHub profile to showcase my projects and progress as a web 
 
 <!--<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=acvetochka&theme=tokyonight&card_width=420"/></a>-->
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=acvetochka&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=420&starting_year=2024" alt="GitHub Streak" /></a>
+<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=acvetochka&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=420&starting_year=2024" alt="GitHub Streak" /></a> -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=acvetochka&theme=tokyonight&hide_border=true\&show_icons=true\&include_all_commits=false&card_width=420"/></a>
+<!--[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=acvetochka&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=420&starting_year=2024)](https://github.com/pranesh-2005/github-readme-stats-fast)-->
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=acvetochka&theme=tokyonight&hide_border=true\&show_icons=true\&include_all_commits=false&card_width=420"/></a> -->
+
+<!--![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=acvetochka&show_icons=true&theme=tokyonight)-->
+
+<a href="https://github.com/pranesh-2005/github-readme-stats-fast"><img src="https://github-readme-stats-fast.vercel.app/api?username=acvetochka&show_icons=true&theme=tokyonight"/></a>
+<a href="https://github.com/pranesh-2005/github-readme-stats-fast"><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=acvetochka&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=420&starting_year=2024" alt="GitHub Streak" /></a> 
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=acvetochka&theme=tokyonight)](https://git.io/streak-stats)-->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=acvetochka&theme=discord&rank=-?&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=acvetochka&theme=discord&rank=-?&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)-->
+
+![GitHub Trophies](https://github-profile-svg.vercel.app/api/profile?username=acvetochka&mode=readme&animation=on&showHidden=true)
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acvetochka&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
@@ -139,7 +150,9 @@ I'll be using this GitHub profile to showcase my projects and progress as a web 
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acvetochka&layout=compact&langs_count=20&theme=tokyonight)-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acvetochka&hide=Jupyter%20Notebook,go,smarty,groovy,hcl&layout=compact&langs_count=20&theme=tokyonight&exclude_repo=Ukraine-in-heart,mimino)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acvetochka&hide=Jupyter%20Notebook,go,smarty,groovy,hcl&layout=compact&langs_count=20&theme=tokyonight&exclude_repo=Ukraine-in-heart,mimino)-->
+
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=acvetochka&hide=Jupyter%20Notebook,go,smarty,groovy,hcl&layout=compact&langs_count=20&theme=tokyonight&exclude_repo=Ukraine-in-heart,mimino)](https://github.com/Pranesh-2005/github-readme-stats)
 
 <!--html,css,scss,-->
 
