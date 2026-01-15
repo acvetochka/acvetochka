@@ -135,7 +135,8 @@ I'll be using this GitHub profile to showcase my projects and progress as a web 
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=acvetochka&theme=discord&rank=-?&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)-->
 
-[![GitHub Trophies](https://github-profile-svg.vercel.app/api/profile?username=acvetochka&mode=unreal&animation=on&showHidden=true)](https://github.com/VaradScript/github-profile-svg)
+[![GitHub Trophies](https://github-profile-stats-rho.vercel.app//api/profile?username=acvetochka&mode=unreal&animation=on&showHidden=true)](https://github.com/VaradScript/github-profile-svg)
+
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acvetochka&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
