@@ -4,13 +4,11 @@
 <!-- ![](https://komarev.com/ghpvc/?acvetochka&color=blue) -->
 ## :fire: About me:
 
-- Frontend Developer with a passion for JavaScript, React, and Next.js
-- Skilled in creating modern, adaptive websites that look great on any device
-- Proficient in SASS, BEM, Tailwind CSS, and Emotion-styles
-- Experienced in team roles as Team Lead and Scrum Master on team projects
-- Holder of two master’s degrees in Telecommunications and Law, combining technical expertise with analytical thinking
-- Quick to adapt to new technologies and solutions, with strong self-learning skills
-- Basic knowledge of backend, Google Cloud Platform, data analytics, Python
+- Engineering Expertise: Full Stack development with TypeScript, React, and Node.js",
+- Infrastructure & Automation: Deep knowledge of Linux, Networking, and CI/CD pipelines (GitHub to Digital Ocean),
+- System Design: Experienced with Relational and Non-relational databases, Bash scripting, and Python basics,
+- Leadership: Proven track record as a Team Lead and Scrum Master in agile environments,
+- Analytical Background: Master’s in Telecommunications & Law — combining technical deep-dives with structured legal-grade analysis
 
 <!-- As a beginner, I may not have years of experience, but I bring enthusiasm, dedication, and a commitment to learning. Here's what you can expect from me:
 
