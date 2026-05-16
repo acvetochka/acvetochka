@@ -10,6 +10,8 @@
 - **Leadership**: Proven track record as a Team Lead and Scrum Master in agile environments,
 - **Analytical Background**: Master’s in Telecommunications & Law — combining technical deep-dives with structured legal-grade analysis
 
+[My portfolio](https://kuznietsova.org)
+
 <!-- As a beginner, I may not have years of experience, but I bring enthusiasm, dedication, and a commitment to learning. Here's what you can expect from me:
 
 - Passion: I'm incredibly passionate about web development. I'm excited to tackle new challenges and dive into the world of coding.
