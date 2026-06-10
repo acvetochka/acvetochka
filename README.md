@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://kuznietsova.org" target="_blank">Alona</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<!-- ![](https://komarev.com/ghpvc/?acvetochka&color=blue) -->
 ## :fire: About me:
 
 - **Engineering Expertise**: Full Stack development with TypeScript, React, and Node.js",
@@ -12,15 +11,6 @@
 
 [My portfolio](https://kuznietsova.org)
 
-<!-- As a beginner, I may not have years of experience, but I bring enthusiasm, dedication, and a commitment to learning. Here's what you can expect from me:
-
-- Passion: I'm incredibly passionate about web development. I'm excited to tackle new challenges and dive into the world of coding.
-
-- Collaboration: My experience as a team lead and Scrum Master has taught me the value of collaboration. I'm a team player who is always ready to work with others to achieve our goals.
-
-- Adaptability: The tech world is constantly evolving, and I'm committed to staying up-to-date with the latest trends and technologies. I'm a quick learner and am excited to adapt to new tools and techniques.
-
-- Problem-Solving: I love solving problems, whether it's debugging code or finding creative solutions to complex challenges. I'm always up for a good puzzle. -->
 
 ## :fire: My stack:
 
@@ -149,7 +139,7 @@ I'll be using this GitHub profile to showcase my projects and progress as a web 
 
 <!--[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=acvetochka&theme=tokyonight)]-->
 
-<!--<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=acvetochka&theme=tokyonight&card_width=420"/></a>-->
+<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=acvetochka&theme=tokyonight&card_width=420"/></a> -->
 
 <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=acvetochka&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=420&starting_year=2024" alt="GitHub Streak" /></a> -->
 
@@ -185,8 +175,6 @@ I'll be using this GitHub profile to showcase my projects and progress as a web 
 
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=acvetochka&hide=Jupyter%20Notebook,go,smarty,groovy,hcl&layout=compact&langs_count=20&theme=tokyonight&exclude_repo=Ukraine-in-heart,mimino)](https://github.com/Pranesh-2005/github-readme-stats)
 
-<!--html,css,scss,-->
-
 Codewars:
 
 [![codewars](https://www.codewars.com/users/acvetochka/badges/small)](https://www.codewars.com/users/acvetochka) 
@@ -214,5 +202,3 @@ I'm always open to connect with fellow developers, so don't hesitate to reach ou
 
 
 Thank you for stopping by, and I look forward to connecting with you in the world of web development.  
-
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acvetochka&repo=goit-react-hw-05-movies)](https://github.com/anuraghazra/github-readme-stats)-->
