@@ -157,7 +157,7 @@ I'll be using this GitHub profile to showcase my projects and progress as a web 
 
 <!--![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=acvetochka&show_icons=true&theme=tokyonight)-->
 
-<a href="https://github.com/pranesh-2005/github-readme-stats-fast"><img src="https://github-readme-stats-fast.vercel.app/api?username=acvetochka&show_icons=true&theme=tokyonight"/></a>
+<a href="https://github.com/pranesh-2005/github-readme-stats-fast"><img src="https://github-readme-stats-fast.vercel.app/api?username=acvetochka&show_icons=true&theme=tokyonight&show=prs_merged_percentage"/></a>
 <a href="https://github.com/pranesh-2005/github-readme-stats-fast"><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=acvetochka&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=420&starting_year=2024" alt="GitHub Streak" /></a> 
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=acvetochka&theme=tokyonight)](https://git.io/streak-stats)-->
