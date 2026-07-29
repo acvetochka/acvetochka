@@ -3,11 +3,11 @@
 
 ## :fire: About me:
 
-- **Engineering Expertise**: Full Stack development with TypeScript, React, and Node.js",
-- **Infrastructure & Automation**: Deep knowledge of Linux, Networking, and CI/CD pipelines (GitHub to Digital Ocean),
-- **System Design**: Experienced with Relational and Non-relational databases, Bash scripting, and Python basics,
-- **Leadership**: Proven track record as a Team Lead and Scrum Master in agile environments,
-- **Analytical Background**: Master’s in Telecommunications & Law — combining technical deep-dives with structured legal-grade analysis
+- **Full-Stack Development**: Developing modern full-stack applications with React, Next.js, TypeScript, Node.js, MongoDB, PostgreSQL and Prisma ORM,
+- **Infrastructure & Automation**: Hands-on experience with Linux server provisioning, DigitalOcean deployment, GitHub Actions, and CI/CD automation,
+- **Documentation & Developer Experience**: Designed technical documentation architecture, created developer documentation, and automated Swagger documentation generation using GitHub Actions,
+- **Leadership**: Led development teams of up to 14 developers as Frontend Team Lead and Scrum Master in Agile environments,
+- **Engineering Background**: Master's degree in Telecommunications with a strong foundation in communication networks, systems thinking, and analytical problem-solving
 
 [My portfolio](https://kuznietsova.org)
 
