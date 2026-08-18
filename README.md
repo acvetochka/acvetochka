@@ -16,12 +16,21 @@
 
 **Programming Languages**:
 
+<!-- <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" title="JavaScript" alt="JavaScript"/> -->
+
+<img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript"/>  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript"/>  <img src="https://skillicons.dev/icons?i=py" title="Python" alt="Python"/>
+
+<!--
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  -->
 
 **Frontend**:
 
+<img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML"/>  <img src="https://skillicons.dev/icons?i=react" title="React" alt="React"/>  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js"/> <img src="https://skillicons.dev/icons?i=redux" title="Redux" alt="Redux"/>  <img src="https://skillicons.dev/icons?i=vue" title="Vue" alt="Vue"/>  <img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS"/>  <img src="https://skillicons.dev/icons?i=sass" title="SASS" alt="SASS"/>  <img src="https://skillicons.dev/icons?i=tailwindcss" title="TailwindCSS" alt="TailwindCSS"/>  <img src="https://skillicons.dev/icons?i=emotion" title="Emotion Styled" alt="Emotion Styled"/>
+
+<!--
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -38,7 +47,7 @@
   ![Emotion Styled](https://img.shields.io/badge/Emotion-D26AC2?style=for-the-badge)
   ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
   ![Shadcn](https://img.shields.io/badge/shadcn-black?style=for-the-badge&logo=shadcnui&logoColor=white)
-
+-->
 **Backend**:
 
   ![Rest API](https://img.shields.io/badge/Rest_API-gray?style=for-the-badge)
