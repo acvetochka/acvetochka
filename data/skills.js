@@ -21,8 +21,18 @@ export const skills = {
         title: 'Redux',
       },
       {
+        icon: 'zustand',
+        title: 'Zustand',
+        provider: 'syvixor'
+      },
+      {
         icon: 'vue',
         title: 'Vue',
+      },
+      {
+        icon: 'axios',
+        title: 'Axios',
+        provider: 'syvixor',
       },
       {
         icon: 'css',
@@ -41,10 +51,19 @@ export const skills = {
         title: 'Emotion Styled',
       },
       {
+        icon: 'styledcomponents',
+        title: 'Styled Components',
+        provider: 'syvixor',
+      },
+      {
         icon: 'shadcnui',
         title: 'ShadCN UI',
         provider: 'syvixor',
       },
+      {
+        icon: 'i18next',
+        title: 'i18next'
+      }
     ],
   },
 
@@ -135,4 +154,68 @@ export const skills = {
       },
     ],
   },
+  devops: {
+    title: "DevOps & Systems",
+    provider: "syvixor",
+    items: [
+      {
+        icon: "linux",
+        title: 'Linux'
+      },
+      {
+        icon: 'redhat',
+        title: 'RedHat'
+      },
+      {
+        icon: 'bash',
+        title: 'Bash'
+      },
+      {
+        icon: 'docker',
+        title: "Docker"
+      },
+      {
+        icon: 'githubactions',
+        title: 'GitHub Actions'
+      },
+      {
+        icon: 'digitalocean',
+        title: 'DigitalOcean'
+      },
+      {
+        icon: 'wireshark',
+        title: 'Wireshark'
+      },
+      {
+        icon: 'apache',
+        title: "Apache"
+      },
+      {
+        icon: 'nginx',
+        title: "Nginx"
+      }
+    ]
+  },
+  documentation: {
+    title: "Documentation",
+    provider: "syvixor",
+    items: [
+      {
+        icon: "md",
+        title: 'Markdown'
+      },
+      {
+        icon: 'yaml',
+        title: 'YAML'
+      },
+      {
+        icon: 'swagger',
+        title: "Swagger"
+      },
+      {
+        icon: 'vitepress',
+        title: 'VitePress'
+      }
+    ]
+  }
 };

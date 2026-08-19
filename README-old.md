@@ -27,7 +27,7 @@
   -->
 
 **Frontend**:
-<div style={ display: flex; gap: 16px;} >
+<div style={ "display: flex; gap: 16px;"} >
   <img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML"/> &nbsp;
   <img src="https://skillicons.dev/icons?i=react" title="React" alt="React"/> &nbsp;
   <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js"/> &nbsp;
@@ -60,7 +60,7 @@
 -->
 **Backend**:
 
-<div styles={ display: flex; gap: 16px;} >
+<div style={ display: flex; gap: 16px;} >
   <img src="https://skills.syvixor.com/api/icons?i=node" title="Node.js" alt="Node.js"/>  
   <img src="https://skills.syvixor.com/api/icons?i=expressjs" title="Express.js" alt="Express.js"/>
   <img src="https://skills.syvixor.com/api/icons?i=rest" title="Rest API" alt="Rest API"/>  
