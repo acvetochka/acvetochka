@@ -43,7 +43,7 @@
 **Documentation**:
 
 <div>
-  <img src="https://skills.syvixor.com/api/icons?i=md" title="Markdown" alt="Markdown" />&nbsp; <img src="https://skills.syvixor.com/api/icons?i=yaml" title="YAML" alt="YAML" />&nbsp; <img src="https://skills.syvixor.com/api/icons?i=swagger" title="Swagger" alt="Swagger" />&nbsp; <img src="https://skills.syvixor.com/api/icons?i=vitepress" title="VitePress" alt="VitePress" />&nbsp;
+  <img src="https://skills.syvixor.com/api/icons?i=md" title="Markdown" alt="Markdown" />&nbsp; <img src="https://skills.syvixor.com/api/icons?i=yaml" title="YAML" alt="YAML" />&nbsp; <img src="https://skills.syvixor.com/api/icons?i=swagger" title="Swagger" alt="Swagger" />&nbsp; <img src="https://skills.syvixor.com/api/icons?i=vitepress" title="VitePress" alt="VitePress" />&nbsp; <img src="https://skills.syvixor.com/api/icons?i=mermaid" title="Mermaid" alt="Mermaid" />&nbsp;
 </div>
 <!-- END:SKILLS -->
 
