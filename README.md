@@ -19,81 +19,17 @@
 ## :fire: Projects
 I'll be using this GitHub profile to showcase my projects and progress as a web developer. I'm excited to share what I create and to collaborate with others in the developer community.
 
-<details>
-<summary><b>💡 Team-projects:</b></summary>
+<!-- START:PROJECTS -->
+<!-- END:PROJECTS -->
 
-<br/>
-
-[![Smile Bar Repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=acvetochka&repo=smile_bar&theme=tokyonight)](https://github.com/acvetochka/smile_bar)
-[![Goose-track-project Repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=acvetochka&repo=goose-track-project&theme=tokyonight)](https://github.com/acvetochka/goose-track-project)
-[![project-bookshelf Repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=acvetochka&repo=project-bookshelf&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/project-bookshelf)
-[![Mimino Repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=acvetochka&repo=mimino&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/mimino)
-
-</details>
-
-<details>
-<summary><b>💡 Websites/ Landings:</b></summary>
-
-<br/>
-
-[![portfolio](https://github-readme-stats-fast.vercel.app/api/pin/?username=acvetochka&repo=portfolio&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/portfolio)
-[![carp-travel](https://github-readme-stats-fast.vercel.app/api/pin/?username=acvetochka&repo=carp-travel&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/carp-travel)
-[![car-rental](https://github-readme-stats-fast.vercel.app/api/pin/?username=acvetochka&repo=car-rental&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/car-rental)
-[![WebStudio](https://github-readme-stats-fast.vercel.app/api/pin/?username=acvetochka&repo=WebStudio&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/WebStudio)
-[![Resume](https://github-readme-stats-fast.vercel.app/api/pin/?username=acvetochka&repo=Resume&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/Resume)
-</details>
-
-<details>
-<summary><b>💡 Apps:</b></summary>
-
-<br/>
-
-[![Phonebook](https://github-readme-stats-fast.vercel.app/api/pin/?username=acvetochka&repo=Phonebook&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/Phonebook)
-[![tetris](https://github-readme-stats-fast.vercel.app/api/pin/?username=acvetochka&repo=tetris&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/tetris)
-[![search-movies](https://github-readme-stats-fast.vercel.app/api/pin/?username=acvetochka&repo=search-movies&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/search-movies)
-[![fullstackTest](https://github-readme-stats-fast.vercel.app/api/pin/?username=acvetochka&repo=fullstackTest&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/fullstackTest)
-[![ImageSearchl](https://github-readme-stats-fast.vercel.app/api/pin/?username=acvetochka&repo=ImageSearch&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/ImageSearch)
-[![WeatherApp](https://github-readme-stats-fast.vercel.app/api/pin/?username=acvetochka&repo=weather-app&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/weather-app)
-
-</details>
 
 ## :fire: Statistic
-
-<!--[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=acvetochka&theme=tokyonight)]-->
-
-<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=acvetochka&theme=tokyonight&card_width=420"/></a> -->
-
-<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=acvetochka&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=420&starting_year=2024" alt="GitHub Streak" /></a> -->
-
-<!--[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=acvetochka&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=420&starting_year=2024)](https://github.com/pranesh-2005/github-readme-stats-fast)-->
-
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=acvetochka&theme=tokyonight&hide_border=true\&show_icons=true\&include_all_commits=false&card_width=420"/></a> -->
-
-<!--![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=acvetochka&show_icons=true&theme=tokyonight)-->
 
 <a href="https://github.com/pranesh-2005/github-readme-stats-fast"><img src="https://github-readme-stats-fast.vercel.app/api?username=acvetochka&show_icons=true&theme=tokyonight&show=prs_merged_percentage"/></a>
 <a href="https://github.com/pranesh-2005/github-readme-stats-fast"><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=acvetochka&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=420&starting_year=2024" alt="GitHub Streak" /></a> 
 
-<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=acvetochka&theme=tokyonight)](https://git.io/streak-stats)-->
-
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=acvetochka&theme=discord&rank=-?&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)-->
-
 [![GitHub Trophies](https://github-profile-stats-rho.vercel.app//api/profile?username=acvetochka&mode=unreal&animation=on&&showHidden=true)](https://github.com/VaradScript/github-profile-svg)
 
-
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acvetochka&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)-->
-
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acvetochka&theme=tokyonight&hide_border=true\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true)-->
-<!-- \&rank_icon=percentile -->
-
-<!--![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=acvetochka&theme=tokyonight)
-![](https://raw.githubusercontent.com/acvetochka/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/acvetochka/github-stats/master/generated/overview.svg#gh-light-mode-only)
--->
-
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acvetochka&layout=compact&langs_count=20&theme=tokyonight)-->
-
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acvetochka&hide=Jupyter%20Notebook,go,smarty,groovy,hcl&layout=compact&langs_count=20&theme=tokyonight&exclude_repo=Ukraine-in-heart,mimino)-->
 
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=acvetochka&hide=Jupyter%20Notebook,go,smarty,groovy,hcl&layout=compact&langs_count=20&theme=tokyonight&exclude_repo=Ukraine-in-heart,mimino)](https://github.com/Pranesh-2005/github-readme-stats)
 
