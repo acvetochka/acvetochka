@@ -1,4 +1,22 @@
 export const skills = {
+  programming: {
+    title: 'Programming Languages',
+    provider: 'skillicons',
+    items: [
+      {
+        icon: 'js',
+        title: 'JavaScript'
+      },
+      {
+        icon: 'ts',
+        title: 'TypeScript'
+      },
+      {
+        icon: 'py',
+        title: 'Python'
+      }
+    ]
+  },
   frontend: {
     title: 'Frontend',
     provider: 'skillicons',
