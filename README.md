@@ -27,8 +27,18 @@
   -->
 
 **Frontend**:
-
-<img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML"/>  <img src="https://skillicons.dev/icons?i=react" title="React" alt="React"/>  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js"/> <img src="https://skillicons.dev/icons?i=redux" title="Redux" alt="Redux"/>  <img src="https://skillicons.dev/icons?i=vue" title="Vue" alt="Vue"/>  <img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS"/>  <img src="https://skillicons.dev/icons?i=sass" title="SASS" alt="SASS"/>  <img src="https://skillicons.dev/icons?i=tailwindcss" title="TailwindCSS" alt="TailwindCSS"/>  <img src="https://skillicons.dev/icons?i=emotion" title="Emotion Styled" alt="Emotion Styled"/>
+<div style={ display: flex; gap: 16px;} >
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=react" title="React" alt="React"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=redux" title="Redux" alt="Redux"/>  &nbsp;
+  <img src="https://skillicons.dev/icons?i=vue" title="Vue" alt="Vue"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=sass" title="SASS" alt="SASS"/>  &nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwindcss" title="TailwindCSS" alt="TailwindCSS"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=emotion" title="Emotion Styled" alt="Emotion Styled"/> &nbsp;
+  <img src="https://skills.syvixor.com/api/icons?i=shadcnui" title="ShadCN UI" alt="ShadCN UI"/>  &nbsp;
+</div>
 
 <!--
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -50,6 +60,18 @@
 -->
 **Backend**:
 
+<div styles={ display: flex; gap: 16px;} >
+  <img src="https://skills.syvixor.com/api/icons?i=node" title="Node.js" alt="Node.js"/>  
+  <img src="https://skills.syvixor.com/api/icons?i=expressjs" title="Express.js" alt="Express.js"/>
+  <img src="https://skills.syvixor.com/api/icons?i=rest" title="Rest API" alt="Rest API"/>  
+  <img src="https://skills.syvixor.com/api/icons?i=mongodb" title="MondoDB" alt="MongoDB"/>  
+  <img src="https://skills.syvixor.com/api/icons?i=rest" title="Rest API" alt="Rest API"/>  
+  <img src="https://skills.syvixor.com/api/icons?i=postgresql" title="PostgreSQL" alt="PostreSQL"  />
+  <img src="https://skills.syvixor.com/api/icons?i=mysql" title="MySQL" alt="MySQL"  />
+  <img src="https://skills.syvixor.com/api/icons?i=prisma" title="Prisma" alt="Prisma"/>  
+  
+</div>
+<!--
   ![Rest API](https://img.shields.io/badge/Rest_API-gray?style=for-the-badge)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -58,9 +80,29 @@
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+-->
 
  **Utilites**:
 
+<div styles={ display: flex; gap: 16px;} >
+  <img src="https://skills.syvixor.com/api/icons?i=visualstudiocode" title="Visual Studio Code" alt="Visual Studio Code"/>  
+  <img src="https://skills.syvixor.com/api/icons?i=figma" title="Figma" alt="Figma"/>
+  <img src="https://skills.syvixor.com/api/icons?i=github" title="GitHub" alt="GitHub"/>  
+  <img src="https://skills.syvixor.com/api/icons?i=git" title="Git" alt="Git"/>  
+  <img src="https://skills.syvixor.com/api/icons?i=vercel" title="Vercel" alt="Vercel"/>  
+  <img src="https://skills.syvixor.com/api/icons?i=postman" title="Postman" alt="Postman"  />
+  <img src="https://skills.syvixor.com/api/icons?i=trello" title="Trello" alt="Trello"  />
+  <img src="https://skills.syvixor.com/api/icons?i=jira" title="Jira" alt="Jira"/>  
+  <img src="https://skills.syvixor.com/api/icons?i=visualstudio" title="Visual Studio" alt="Visual Studio"/>  
+  <img src="https://skills.syvixor.com/api/icons?i=jupyter" title="Jupyter" alt="Jupyter"/>
+  <img src="https://skills.syvixor.com/api/icons?i=virtualbox" title="VirtualBox" alt="VirtualBox"/>  
+
+
+  
+</div>
+ 
+ 
+<!--
    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
    ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -74,9 +116,13 @@
    ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
    ![VirtualBox](https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
    ![tmux](https://img.shields.io/badge/tmux-%23000000?style=for-the-badge&logo=tmux&logoColor=%231BB91F)
-
+-->
 **DevOps & Systems**:
 
+
+<!--
+https://skills.syvixor.com/api/icons?i=wireshark&perline=12&radius=40
+-->
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
