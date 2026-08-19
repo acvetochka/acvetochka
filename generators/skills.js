@@ -1,13 +1,5 @@
 import { skills } from '../../data/skills.js';
-import { providers } from '../../data/providers.js";
-
-// const iconProviders = {
-//   skillicons: (icon) =>
-//     `https://skillicons.dev/icons?i=${icon}`,
-
-//   syvixor: (icon) =>
-//     `https://skills.syvixor.com/api/icons?i=${icon}`,
-// };
+import { iconProviders } from '../../data/providers.js";
 
 const generateIcon = (skill, defaultProvider) => {
   const provider = skill.provider ?? defaultProvider;
