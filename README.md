@@ -92,10 +92,10 @@ I'll be using this GitHub profile to showcase my projects and progress as a web 
 ## :fire: Certifications & Learning
 
 <!-- START:CREDENTIALS -->
+<a href="https://www.codewars.com/users/acvetochka" target="_blank">![Codewars](https://www.codewars.com/users/acvetochka/badges/small)</a><br/>
 <a href="https://www.cloudskillsboost.google/public_profiles/3df8c2a4-5937-47cd-9e6f-8be8c5e95deb" target="_blank">![Cloud Skills Boost](https://img.shields.io/badge/Cloud_Skills_Boost-1a73e8?style=for-the-badge)</a>
 <a href="https://www.credly.com/users/lona-kuznietsova" target="_blank">![Credly](https://img.shields.io/badge/Credly-ff6a00?style=for-the-badge)</a>
 <a href="https://learn.microsoft.com/en-us/users/alonakuznietsova-7556/achievements" target="_blank">![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)</a>
-<a href="https://www.codewars.com/users/acvetochka" target="_blank">![Codewars](https://www.codewars.com/users/acvetochka/badges/small)</a>
 <!-- END:CREDENTIALS -->
 
 ## :fire: My Contacts

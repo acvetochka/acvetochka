@@ -12,6 +12,14 @@
  */
 export const credentials = [
   {
+    name: 'Codewars',
+    url: 'https://www.codewars.com/users/acvetochka',
+    badge: {
+      url: 'https://www.codewars.com/users/acvetochka/badges/small',
+    },
+    breakAfter: true,
+  },
+  {
     name: 'Cloud Skills Boost',
     url: 'https://www.cloudskillsboost.google/public_profiles/3df8c2a4-5937-47cd-9e6f-8be8c5e95deb',
     badge: {
@@ -35,13 +43,6 @@ export const credentials = [
       color: '258ffa',
       logo: 'microsoft',
       logoColor: 'white',
-    },
-  },
-  {
-    name: 'Codewars',
-    url: 'https://www.codewars.com/users/acvetochka',
-    badge: {
-      url: 'https://www.codewars.com/users/acvetochka/badges/small',
     },
   },
 ];
