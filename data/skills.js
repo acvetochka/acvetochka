@@ -215,7 +215,11 @@ export const skills = {
       {
         icon: 'vitepress',
         title: 'VitePress'
-      }
+      },
+      {
+        icon: 'mermaid',
+        title: 'Mermaid',
+      },
     ]
   }
 };
