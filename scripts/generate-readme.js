@@ -5,6 +5,7 @@ import { fileURLToPath } from 'node:url';
 import { replaceSection } from './utils/replaceSection.js';
 import { generateSkills } from './generators/skills.js';
 import { generateProjects } from './generators/projects.js';
+import { generateCredentials } from './generators/credentials.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -24,6 +25,12 @@ const generateReadme = () => {
     readme,
     'PROJECTS',
     generateProjects(),
+  );
+
+  readme = replaceSection(
+    readme,
+    'CREDENTIALS',
+    generateCredentials(),
   );
 
   fs.writeFileSync(README_PATH, readme);

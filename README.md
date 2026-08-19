@@ -33,17 +33,14 @@ I'll be using this GitHub profile to showcase my projects and progress as a web 
 
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=acvetochka&hide=Jupyter%20Notebook,go,smarty,groovy,hcl&layout=compact&langs_count=20&theme=tokyonight&exclude_repo=Ukraine-in-heart,mimino)](https://github.com/Pranesh-2005/github-readme-stats)
 
-Codewars:
+<!-- Codewars:
 
-[![codewars](https://www.codewars.com/users/acvetochka/badges/small)](https://www.codewars.com/users/acvetochka) 
+[![codewars](https://www.codewars.com/users/acvetochka/badges/small)](https://www.codewars.com/users/acvetochka)  -->
 
-<a href="https://www.cloudskillsboost.google/public_profiles/3df8c2a4-5937-47cd-9e6f-8be8c5e95deb" target="_blank">![CloudSkillsBoost](https://img.shields.io/badge/Cloud_Skills_Boost-1a73e8?style=for-the-badge)</a>
-<a href="https://www.credly.com/users/lona-kuznietsova" target="_blank">![Credly](https://img.shields.io/badge/Credly-ff6a00?style=for-the-badge)</a>
-<a href="https://www.coursera.org/user/d7b76e9c72ad5fa53b4b66f5322566a1" target="_blank">![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge)</a>
-<a href="https://learn.microsoft.com/en-us/users/alonakuznietsova-7556/achievements" target="_blank">![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)</a>
+## :fire: Certifications & Learning
 
-
-
+<!-- START:CREDENTIALS -->
+<!-- END:CREDENTIALS -->
 
 ## :fire: My Contacts
 
