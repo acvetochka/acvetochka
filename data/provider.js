@@ -1,4 +1,4 @@
-const iconProviders = {
+export const iconProviders = {
   skillicons: {
     getUrl: icon => `https://skillicons.dev/icons?i=${icon}`,
   },
