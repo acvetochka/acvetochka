@@ -30,9 +30,9 @@ import { iconProviders } from '../../data/providers.js';
 const generateIcon = (skill, defaultProvider) => {
   const provider = skill.provider ?? defaultProvider;
 
-  console.log(
-    `Generating "${skill.title}" with provider "${provider}"`,
-  );
+  // console.log(
+  //   `Generating "${skill.title}" with provider "${provider}"`,
+  // );
 
   if (!provider) {
     throw new Error(

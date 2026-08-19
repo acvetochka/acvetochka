@@ -25,17 +25,8 @@ I'll be using this GitHub profile to showcase my projects and progress as a web 
 
 ## :fire: Statistic
 
-<a href="https://github.com/pranesh-2005/github-readme-stats-fast"><img src="https://github-readme-stats-fast.vercel.app/api?username=acvetochka&show_icons=true&theme=tokyonight&show=prs_merged_percentage"/></a>
-<a href="https://github.com/pranesh-2005/github-readme-stats-fast"><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=acvetochka&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=420&starting_year=2024" alt="GitHub Streak" /></a> 
-
-[![GitHub Trophies](https://github-profile-stats-rho.vercel.app//api/profile?username=acvetochka&mode=unreal&animation=on&&showHidden=true)](https://github.com/VaradScript/github-profile-svg)
-
-
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=acvetochka&hide=Jupyter%20Notebook,go,smarty,groovy,hcl&layout=compact&langs_count=20&theme=tokyonight&exclude_repo=Ukraine-in-heart,mimino)](https://github.com/Pranesh-2005/github-readme-stats)
-
-<!-- Codewars:
-
-[![codewars](https://www.codewars.com/users/acvetochka/badges/small)](https://www.codewars.com/users/acvetochka)  -->
+<!-- START:STATISTICS -->
+<!-- END:STATISTICS -->
 
 ## :fire: Certifications & Learning
 

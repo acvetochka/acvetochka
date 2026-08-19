@@ -6,6 +6,7 @@ import { replaceSection } from './utils/replaceSection.js';
 import { generateSkills } from './generators/skills.js';
 import { generateProjects } from './generators/projects.js';
 import { generateCredentials } from './generators/credentials.js';
+import { generateStatistics } from './generators/statistics.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -25,6 +26,12 @@ const generateReadme = () => {
     readme,
     'PROJECTS',
     generateProjects(),
+  );
+
+  readme = replaceSection(
+    readme,
+    'STATISTICS',
+    generateStatistics(),
   );
 
   readme = replaceSection(
