@@ -5,4 +5,8 @@ export const config = {
     theme: 'tokyonight',
     showIcons: true,
   },
+  profile: {
+    name: 'Alona',
+    portfolio: 'https://kuznietsova.org',
+  },
 };

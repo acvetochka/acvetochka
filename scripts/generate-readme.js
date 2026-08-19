@@ -7,6 +7,7 @@ import { generateSkills } from './generators/skills.js';
 import { generateProjects } from './generators/projects.js';
 import { generateCredentials } from './generators/credentials.js';
 import { generateStatistics } from './generators/statistics.js';
+import { generateAbout } from './generators/about.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -15,6 +16,12 @@ const README_PATH = path.resolve(__dirname, '../README.md');
 
 const generateReadme = () => {
   let readme = fs.readFileSync(README_PATH, 'utf8');
+
+  readme = replaceSection(
+    readme,
+    'ABOUT',
+    generateAbout(),
+  );
 
   readme = replaceSection(
     readme,
