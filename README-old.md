@@ -1,0 +1,270 @@
+<h1 align="center">Hi there, I'm <a href="https://kuznietsova.org" target="_blank">Alona</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+## :fire: About me:
+
+- **Full-Stack Development**: Developing modern full-stack applications with React, Next.js, TypeScript, Node.js, MongoDB, PostgreSQL and Prisma ORM,
+- **Infrastructure & Automation**: Hands-on experience with Linux server provisioning, DigitalOcean deployment, GitHub Actions, and CI/CD automation,
+- **Documentation & Developer Experience**: Designed technical documentation architecture, created developer documentation, and automated Swagger documentation generation using GitHub Actions,
+- **Leadership**: Led development teams of up to 14 developers as Frontend Team Lead and Scrum Master in Agile environments,
+- **Engineering Background**: Master's degree in Telecommunications with a strong foundation in communication networks, systems thinking, and analytical problem-solving
+
+[My portfolio](https://kuznietsova.org)
+
+
+## :fire: My stack:
+
+**Programming Languages**:
+
+<!-- <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" title="JavaScript" alt="JavaScript"/> -->
+
+<img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript"/>  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript"/>  <img src="https://skillicons.dev/icons?i=py" title="Python" alt="Python"/>
+
+<!--
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  -->
+
+**Frontend**:
+<div style={ display: flex; gap: 16px;} >
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=react" title="React" alt="React"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=redux" title="Redux" alt="Redux"/>  &nbsp;
+  <img src="https://skillicons.dev/icons?i=vue" title="Vue" alt="Vue"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=sass" title="SASS" alt="SASS"/>  &nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwindcss" title="TailwindCSS" alt="TailwindCSS"/> &nbsp;
+  <img src="https://skillicons.dev/icons?i=emotion" title="Emotion Styled" alt="Emotion Styled"/> &nbsp;
+  <img src="https://skills.syvixor.com/api/icons?i=shadcnui" title="ShadCN UI" alt="ShadCN UI"/>  &nbsp;
+</div>
+
+<!--
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+  ![Zustand](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge)
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+  ![Stripe](https://img.shields.io/badge/stripe-%2320232a.svg?style=for-the-badge&logo=stripe&logoColor=635BFF)
+  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![BEM](https://img.shields.io/badge/BEM-20232a?style=for-the-badge&logo=bem&logoColor=white)
+  ![Emotion Styled](https://img.shields.io/badge/Emotion-D26AC2?style=for-the-badge)
+  ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+  ![Shadcn](https://img.shields.io/badge/shadcn-black?style=for-the-badge&logo=shadcnui&logoColor=white)
+-->
+**Backend**:
+
+<div styles={ display: flex; gap: 16px;} >
+  <img src="https://skills.syvixor.com/api/icons?i=node" title="Node.js" alt="Node.js"/>  
+  <img src="https://skills.syvixor.com/api/icons?i=expressjs" title="Express.js" alt="Express.js"/>
+  <img src="https://skills.syvixor.com/api/icons?i=rest" title="Rest API" alt="Rest API"/>  
+  <img src="https://skills.syvixor.com/api/icons?i=mongodb" title="MondoDB" alt="MongoDB"/>  
+  <img src="https://skills.syvixor.com/api/icons?i=rest" title="Rest API" alt="Rest API"/>  
+  <img src="https://skills.syvixor.com/api/icons?i=postgresql" title="PostgreSQL" alt="PostreSQL"  />
+  <img src="https://skills.syvixor.com/api/icons?i=mysql" title="MySQL" alt="MySQL"  />
+  <img src="https://skills.syvixor.com/api/icons?i=prisma" title="Prisma" alt="Prisma"/>  
+  
+</div>
+<!--
+  ![Rest API](https://img.shields.io/badge/Rest_API-gray?style=for-the-badge)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Mongoose](https://img.shields.io/badge/Mongoose-gray?style=for-the-badge&logo=mongoose&logoColor=880000)
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+-->
+
+ **Utilites**:
+
+<div styles={ display: flex; gap: 16px;} >
+  <img src="https://skills.syvixor.com/api/icons?i=visualstudiocode" title="Visual Studio Code" alt="Visual Studio Code"/>  
+  <img src="https://skills.syvixor.com/api/icons?i=figma" title="Figma" alt="Figma"/>
+  <img src="https://skills.syvixor.com/api/icons?i=github" title="GitHub" alt="GitHub"/>  
+  <img src="https://skills.syvixor.com/api/icons?i=git" title="Git" alt="Git"/>  
+  <img src="https://skills.syvixor.com/api/icons?i=vercel" title="Vercel" alt="Vercel"/>  
+  <img src="https://skills.syvixor.com/api/icons?i=postman" title="Postman" alt="Postman"  />
+  <img src="https://skills.syvixor.com/api/icons?i=trello" title="Trello" alt="Trello"  />
+  <img src="https://skills.syvixor.com/api/icons?i=jira" title="Jira" alt="Jira"/>  
+  <img src="https://skills.syvixor.com/api/icons?i=visualstudio" title="Visual Studio" alt="Visual Studio"/>  
+  <img src="https://skills.syvixor.com/api/icons?i=jupyter" title="Jupyter" alt="Jupyter"/>
+  <img src="https://skills.syvixor.com/api/icons?i=virtualbox" title="VirtualBox" alt="VirtualBox"/>  
+
+
+  
+</div>
+ 
+ 
+<!--
+   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+   ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+   ![NotebookLM Badge](https://img.shields.io/badge/NotebookLM-000?logo=notebooklm&logoColor=fff&style=for-the-badge)
+   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+   ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+   ![VirtualBox](https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
+   ![tmux](https://img.shields.io/badge/tmux-%23000000?style=for-the-badge&logo=tmux&logoColor=%231BB91F)
+-->
+**DevOps & Systems**:
+
+
+<!--
+https://skills.syvixor.com/api/icons?i=wireshark&perline=12&radius=40
+-->
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+  <!--![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)-->
+
+**CMS & Content Platforms**
+
+![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
+![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)
+
+ 
+
+**Networking**:
+
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-%2320232a.svg?style=for-the-badge&logoColor=black)
+![DNS](https://img.shields.io/badge/dns-%23E34F26.svg?style=for-the-badge&logoColor=white)
+
+  
+**Documentation**:
+
+  ![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge)
+  ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
+  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+  ![VitePress Badge](https://img.shields.io/badge/VitePress-5C73E7?logo=vitepress&logoColor=fff&style=for-the-badge)
+
+
+  
+
+## :fire: Projects
+I'll be using this GitHub profile to showcase my projects and progress as a web developer. I'm excited to share what I create and to collaborate with others in the developer community.
+
+<details>
+<summary><b>💡 Team-projects:</b></summary>
+
+<br/>
+
+[![Smile Bar Repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=acvetochka&repo=smile_bar&theme=tokyonight)](https://github.com/acvetochka/smile_bar)
+[![Goose-track-project Repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=acvetochka&repo=goose-track-project&theme=tokyonight)](https://github.com/acvetochka/goose-track-project)
+[![project-bookshelf Repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=acvetochka&repo=project-bookshelf&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/project-bookshelf)
+[![Mimino Repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=acvetochka&repo=mimino&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/mimino)
+
+</details>
+
+<details>
+<summary><b>💡 Websites/ Landings:</b></summary>
+
+<br/>
+
+[![portfolio](https://github-readme-stats-fast.vercel.app/api/pin/?username=acvetochka&repo=portfolio&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/portfolio)
+[![carp-travel](https://github-readme-stats-fast.vercel.app/api/pin/?username=acvetochka&repo=carp-travel&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/carp-travel)
+[![car-rental](https://github-readme-stats-fast.vercel.app/api/pin/?username=acvetochka&repo=car-rental&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/car-rental)
+[![WebStudio](https://github-readme-stats-fast.vercel.app/api/pin/?username=acvetochka&repo=WebStudio&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/WebStudio)
+[![Resume](https://github-readme-stats-fast.vercel.app/api/pin/?username=acvetochka&repo=Resume&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/Resume)
+</details>
+
+<details>
+<summary><b>💡 Apps:</b></summary>
+
+<br/>
+
+[![Phonebook](https://github-readme-stats-fast.vercel.app/api/pin/?username=acvetochka&repo=Phonebook&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/Phonebook)
+[![tetris](https://github-readme-stats-fast.vercel.app/api/pin/?username=acvetochka&repo=tetris&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/tetris)
+[![search-movies](https://github-readme-stats-fast.vercel.app/api/pin/?username=acvetochka&repo=search-movies&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/search-movies)
+[![fullstackTest](https://github-readme-stats-fast.vercel.app/api/pin/?username=acvetochka&repo=fullstackTest&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/fullstackTest)
+[![ImageSearchl](https://github-readme-stats-fast.vercel.app/api/pin/?username=acvetochka&repo=ImageSearch&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/ImageSearch)
+[![WeatherApp](https://github-readme-stats-fast.vercel.app/api/pin/?username=acvetochka&repo=weather-app&theme=tokyonight&description_lines_count=3)](https://github.com/acvetochka/weather-app)
+
+</details>
+
+## :fire: Statistic
+
+<!--[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=acvetochka&theme=tokyonight)]-->
+
+<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=acvetochka&theme=tokyonight&card_width=420"/></a> -->
+
+<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=acvetochka&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=420&starting_year=2024" alt="GitHub Streak" /></a> -->
+
+<!--[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=acvetochka&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=420&starting_year=2024)](https://github.com/pranesh-2005/github-readme-stats-fast)-->
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=acvetochka&theme=tokyonight&hide_border=true\&show_icons=true\&include_all_commits=false&card_width=420"/></a> -->
+
+<!--![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=acvetochka&show_icons=true&theme=tokyonight)-->
+
+<a href="https://github.com/pranesh-2005/github-readme-stats-fast"><img src="https://github-readme-stats-fast.vercel.app/api?username=acvetochka&show_icons=true&theme=tokyonight&show=prs_merged_percentage"/></a>
+<a href="https://github.com/pranesh-2005/github-readme-stats-fast"><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=acvetochka&theme=tokyonight&date_format=j%20M%5B%20Y%5D&card_width=420&starting_year=2024" alt="GitHub Streak" /></a> 
+
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=acvetochka&theme=tokyonight)](https://git.io/streak-stats)-->
+
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=acvetochka&theme=discord&rank=-?&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)-->
+
+[![GitHub Trophies](https://github-profile-stats-rho.vercel.app//api/profile?username=acvetochka&mode=unreal&animation=on&&showHidden=true)](https://github.com/VaradScript/github-profile-svg)
+
+
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acvetochka&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)-->
+
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acvetochka&theme=tokyonight&hide_border=true\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true)-->
+<!-- \&rank_icon=percentile -->
+
+<!--![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=acvetochka&theme=tokyonight)
+![](https://raw.githubusercontent.com/acvetochka/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/acvetochka/github-stats/master/generated/overview.svg#gh-light-mode-only)
+-->
+
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acvetochka&layout=compact&langs_count=20&theme=tokyonight)-->
+
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acvetochka&hide=Jupyter%20Notebook,go,smarty,groovy,hcl&layout=compact&langs_count=20&theme=tokyonight&exclude_repo=Ukraine-in-heart,mimino)-->
+
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=acvetochka&hide=Jupyter%20Notebook,go,smarty,groovy,hcl&layout=compact&langs_count=20&theme=tokyonight&exclude_repo=Ukraine-in-heart,mimino)](https://github.com/Pranesh-2005/github-readme-stats)
+
+Codewars:
+
+[![codewars](https://www.codewars.com/users/acvetochka/badges/small)](https://www.codewars.com/users/acvetochka) 
+
+<a href="https://www.cloudskillsboost.google/public_profiles/3df8c2a4-5937-47cd-9e6f-8be8c5e95deb" target="_blank">![CloudSkillsBoost](https://img.shields.io/badge/Cloud_Skills_Boost-1a73e8?style=for-the-badge)</a>
+<a href="https://www.credly.com/users/lona-kuznietsova" target="_blank">![Credly](https://img.shields.io/badge/Credly-ff6a00?style=for-the-badge)</a>
+<a href="https://www.coursera.org/user/d7b76e9c72ad5fa53b4b66f5322566a1" target="_blank">![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge)</a>
+<a href="https://learn.microsoft.com/en-us/users/alonakuznietsova-7556/achievements" target="_blank">![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)</a>
+
+
+
+
+## :fire: My Contacts
+
+I'm always open to connect with fellow developers, so don't hesitate to reach out. Whether you want to collaborate, chat about coding, or just say hello, feel free to send me a message. Let's build amazing things together!
+
+<a href="https://www.linkedin.com/in/alona-kuznietsova/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://t.me/acvetochka" target="_blank">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href="https://wa.me/30961270693" target="_blank">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
+<a href="mailto:acvetochka@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.get-in-it.de/profil/JZNjS79xsiXUeN4VeAzYw1I70sSQY1mZ" target="_blank">![Get in IT](https://img.shields.io/badge/Get_in_IT-6eab1b6?style=for-the-badge)</a>
+
+<a href="https://resume.kuznietsova.org" target="_blank">My Resume</a> 
+
+
+
+<a href="https://u8views.com/github/acvetochka"><img src="https://u8views.com/api/v1/github/profiles/116402791/views/day-week-month-total-count.svg"></a>
+
+
+Thank you for stopping by, and I look forward to connecting with you in the world of web development.  
