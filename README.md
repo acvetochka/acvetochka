@@ -16,6 +16,12 @@
 ## :fire: My stack:
 
 <!-- START:SKILLS -->
+**Programming Languages**:
+
+<div>
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" />&nbsp; <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" />&nbsp; <img src="https://skillicons.dev/icons?i=py" title="Python" alt="Python" />&nbsp;
+</div>
+
 **Frontend**:
 
 <div>
